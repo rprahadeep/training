@@ -1,0 +1,63 @@
+{"products":[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "price": 59.99,
+    "category": "Electronics"
+  },
+  {
+    "id": 2,
+    "name": "Yoga Mat",
+    "price": 24.99,
+    "category": "Fitness"
+  },
+  {
+    "id": 3,
+    "name": "Coffee Maker",
+    "price": 79.99,
+    "category": "Home Appliances"
+  },
+  {
+    "id": 4,
+    "name": "LED Desk Lamp",
+    "price": 39.99,
+    "category": "Home Decor"
+  },
+  {
+    "id": 5,
+    "name": "Gaming Mouse",
+    "price": 49.99,
+    "category": "Electronics"
+  },
+  {
+    "id": 6,
+    "name": "Running Shoes",
+    "price": 89.99,
+    "category": "Footwear"
+  },
+  {
+    "id": 7,
+    "name": "Bluetooth Speaker",
+    "price": 69.99,
+    "category": "Electronics"
+  },
+  {
+    "id": 8,
+    "name": "Stainless Steel Water Bottle",
+    "price": 19.99,
+    "category": "Fitness"
+  },
+  {
+    "id": 9,
+    "name": "Notebook Set",
+    "price": 12.99,
+    "category": "Stationery"
+  },
+  {
+    "id": 10,
+    "name": "Scented Candles",
+    "price": 29.99,
+    "category": "Home Decor"
+  }
+]
+}
